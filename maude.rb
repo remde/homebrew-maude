@@ -2,7 +2,7 @@ class Maude < Formula
   homepage "http://maude.cs.illinois.edu"
   version "3.1"
   url "http://maude.cs.illinois.edu/w/images/9/93/Maude-3.1-macos.zip"
-  sha256 "2d1ba91beba27c65ae0e72b8a0596962cd2f2d008ffdfab168a5aa9c3dc6320d"
+  sha256 "7b97f675ede00edb8435cee08ea41e5226eb8daf7dea7c52c7c79d70dd5fc0ff"
 
   def install
     bin.install "maude31-osx/linear.maude"
