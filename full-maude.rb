@@ -2,7 +2,7 @@ class FullMaude < Formula
   homepage "http://maude.cs.illinois.edu"
   version "2.7"
   url "http://maude.cs.illinois.edu/w/images/c/ce/Full-maude-27.zip"
-  sha256 "965ea5410224e00846e0e6a2872edd861fe580ede9507a462057ed0300919396"
+  sha256 "7b97f675ede00edb8435cee08ea41e5226eb8daf7dea7c52c7c79d70dd5fc0ff"
   depends_on "maude"
 
   def install
